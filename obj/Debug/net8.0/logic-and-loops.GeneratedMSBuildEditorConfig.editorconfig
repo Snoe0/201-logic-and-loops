@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = logic_and_loops
-build_property.ProjectDir = C:\Projects\GitHub\201-logic-and-loops\logic-and-loops\
+build_property.ProjectDir = C:\Projects\GitHub\201-logic-and-loops\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
