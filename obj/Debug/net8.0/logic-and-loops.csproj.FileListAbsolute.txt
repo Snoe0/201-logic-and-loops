@@ -1,0 +1,15 @@
+C:\Projects\GitHub\201-logic-and-loops\bin\Debug\net8.0\logic-and-loops.exe
+C:\Projects\GitHub\201-logic-and-loops\bin\Debug\net8.0\logic-and-loops.deps.json
+C:\Projects\GitHub\201-logic-and-loops\bin\Debug\net8.0\logic-and-loops.runtimeconfig.json
+C:\Projects\GitHub\201-logic-and-loops\bin\Debug\net8.0\logic-and-loops.dll
+C:\Projects\GitHub\201-logic-and-loops\bin\Debug\net8.0\logic-and-loops.pdb
+C:\Projects\GitHub\201-logic-and-loops\obj\Debug\net8.0\logic-and-loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\GitHub\201-logic-and-loops\obj\Debug\net8.0\logic-and-loops.AssemblyInfoInputs.cache
+C:\Projects\GitHub\201-logic-and-loops\obj\Debug\net8.0\logic-and-loops.AssemblyInfo.cs
+C:\Projects\GitHub\201-logic-and-loops\obj\Debug\net8.0\logic-and-loops.csproj.CoreCompileInputs.cache
+C:\Projects\GitHub\201-logic-and-loops\obj\Debug\net8.0\logic-and-loops.sourcelink.json
+C:\Projects\GitHub\201-logic-and-loops\obj\Debug\net8.0\logic-and-loops.dll
+C:\Projects\GitHub\201-logic-and-loops\obj\Debug\net8.0\refint\logic-and-loops.dll
+C:\Projects\GitHub\201-logic-and-loops\obj\Debug\net8.0\logic-and-loops.pdb
+C:\Projects\GitHub\201-logic-and-loops\obj\Debug\net8.0\logic-and-loops.genruntimeconfig.cache
+C:\Projects\GitHub\201-logic-and-loops\obj\Debug\net8.0\ref\logic-and-loops.dll
